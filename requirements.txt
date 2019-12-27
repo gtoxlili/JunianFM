@@ -1,0 +1,5 @@
+python_vlc==3.0.7110
+Flask==1.0.2
+requests==2.21.0
+gunicorn
+gevent
