@@ -48,3 +48,8 @@ su pi -c "exec 存放路径 + /flaskss.sh"
 
 enjoy it~
 
+#### 程序截图
+
+![Alt text](https://github.com/Glovecc/JunianFM/blob/master/static/photo_2019-12-27_12-43-29.jpg)
+![Alt text](https://github.com/Glovecc/JunianFM/blob/master/static/photo_2019-12-27_12-43-35.jpg)
+![Alt text](https://github.com/Glovecc/JunianFM/blob/master/static/photo_2019-12-27_12-43-38.jpg)
