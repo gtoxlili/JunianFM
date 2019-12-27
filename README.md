@@ -40,9 +40,11 @@ su pi -c "exec 存放路径 + /flaskss.sh"
 
 #### 安装捷径
 
-[安装捷径](https://www.icloud.com/shortcuts/e466dc491ec341afa59641f73953614e)
+[安装捷径链接](https://www.icloud.com/shortcuts/e466dc491ec341afa59641f73953614e)
 
-最后，
+如果实现了上一步就在向导步骤中填入指定的域名，否则就填入 树莓派ip : 6654
+
+#### 最后，
 
 enjoy it~
 
